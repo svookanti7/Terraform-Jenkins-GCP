@@ -1,0 +1,4 @@
+
+C:\Users\vookanti\Desktop\Poc\Terraform-Jenkins\jenkins-sa
+
+$env:GOOGLE_APPLICATION_CREDENTIALS="C:\Users\vookanti\Desktop\Poc\Terraform-Jenkins\jenkins-sa.json"
