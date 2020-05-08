@@ -10,7 +10,7 @@ pipelineJob('terraform-jenkins-poc') {
   }
  definition {
    cps {
-     script(readFileFromWorkspace('pipelines/Jenkins-terraform-poc'))
+     script(readFileFromWorkspace('pipelines/Jenkins-terraform-poc')
 	 sandbox()
     }
   }
